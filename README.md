@@ -14,10 +14,6 @@ O sistema visa oferecer uma plataforma onde os usuários podem avaliar e comenta
 -   dotenv
 -   nodemon
 
-## Uso
-
-Para usar o sistema, é necessário configurar o ambiente e iniciar o servidor. Certifique-se de ter instalado todas as dependências listadas no arquivo `package.json`. Em seguida, inicie o servidor utilizando o comando `npm start`.
-
 ## Links Úteis
 
 -   [Node.js](https://nodejs.org/)
